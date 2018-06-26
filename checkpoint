@@ -1,0 +1,2 @@
+model_checkpoint_path: "dsprite_vae.ckpt"
+all_model_checkpoint_paths: "dsprite_vae.ckpt"
